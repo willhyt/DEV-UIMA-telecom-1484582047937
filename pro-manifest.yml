@@ -3,7 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: DEV-UIMA-telecom
-  host: dev-uima-telecom
+  name: PRO-UIMA-telecom
+  host: pro-uima-telecom
   disk_quota: 1024M
   buildpack: java_buildpack
